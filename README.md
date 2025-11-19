@@ -1,2 +1,8 @@
 # SECURITY ANALYSIS LAB
-Project on setting up a virtual home lab using virtualbox. The project walks the steps in configuration a security analysis lab for competence building and simulates the real workspace scenario
+This is a summary of a simulated SOC environment hosted in VirtualBox with the appropriate networking.
+
+## SOC Infrastructure
+- Ubuntu Server w/ Splunk Server installed
+- Windows 10 Workstation
+- Kali Linux (Adversary machine)
+- 
